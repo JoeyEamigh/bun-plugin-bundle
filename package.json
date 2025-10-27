@@ -6,7 +6,7 @@
   "homepage": "https://github.com/JoeyEamigh/bun-plugin-bundle",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoeyEamigh/bun-plugin-bundle.git"
+    "url": "git+https://github.com/JoeyEamigh/bun-plugin-bundle.git"
   },
   "author": {
     "name": "Joey Eamigh",
