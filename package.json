@@ -1,11 +1,17 @@
 {
   "name": "bun-plugin-bundle",
+  "version": "1.0.0",
   "description": "Bundle assets with your Bun builds in a (more) ergonomic way.",
+  "license": "MIT",
+  "homepage": "https://github.com/JoeyEamigh/bun-plugin-bundle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoeyEamigh/bun-plugin-bundle.git"
+  },
   "author": {
     "name": "Joey Eamigh",
     "email": "55670930+JoeyEamigh@users.noreply.github.com"
   },
-  "version": "1.0.0",
   "module": "src/index.ts",
   "types": "src/index.ts",
   "type": "module",
