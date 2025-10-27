@@ -4,6 +4,10 @@
   "description": "Bundle assets with your Bun builds in a (more) ergonomic way.",
   "license": "MIT",
   "homepage": "https://github.com/JoeyEamigh/bun-plugin-bundle",
+  "keywords": [
+    "bun",
+    "bun-plugin"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoeyEamigh/bun-plugin-bundle.git"

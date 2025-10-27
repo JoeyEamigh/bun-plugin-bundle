@@ -59,3 +59,7 @@ await Bun.build({
 - Resolution starts with `import.meta.resolve`. If it fails (for example, when you pass `./node_modules/pkg/file.js`), the plugin checks the current working directory and each entrypoint directory so project-relative paths behave as expected.
 - Bundled builds copy assets into the output tree.
 - Compiled builds embed assets in the executable and unpack them into the configured extraction directory on first run, reusing the files on subsequent launches.
+
+## Prior art
+
+- thanks to vktrl for [bun-plugin-pino](https://github.com/vktrl/bun-plugin-pino) - this is where I got most of the plugin inspiration from
